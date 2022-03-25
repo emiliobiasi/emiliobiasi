@@ -1,9 +1,27 @@
-###  Olá, me chamo Emílio Biasi!
+###  Hi, I'm Emílio Biasi!
 
-- 🔭 I’m currently studing on PUC-Campinas.
-- 🌱 Learning C++, HTML, CSS and JS.
-- 💻 Looking for internships.
+<img align='right' src="https://i.pinimg.com/originals/32/3a/28/323a28121a50a9296e6775cc21918af2.gif" width="230">
+<p><em>Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
 
+```javascript
+const emilio = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, Kotlin],
+  tools: [Node, Docker],
+  archtecture: [...],
+  misc: [Firebase],
+  languageSpoken: [pt_BR, en_US],
+  databases: [Oracle, MySql],
+  universityProjects: {
+                        WEB: "SistemaDeEstacionamento",
+                        Android: "BlueZone",
+                      },
+ challenge: "Switch is the goal | polyglot"
+}
+```
+  <a href="https://www.instagram.com/emilio_biasi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ejbiasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/emílio-biasi-9b5323209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
 
 <div align="center">
@@ -40,9 +58,7 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/emilio_biasi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ejbiasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/emílio-biasi-9b5323209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
     
   ![Snake animation](https://github.com/emiliobiasi/emiliobiasi/blob/output/github-contribution-grid-snake.svg)
  
