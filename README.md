@@ -25,7 +25,9 @@ const emilio = {
   <a href= "https://www.linkedin.com/in/emílio-biasi-9b5323209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
 
+  
 <div align="center">
+  <img align='left' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="500">
   <a href="https://github.com/emiliobiasi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emiliobiasi&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliobiasi&layout=compact&langs_count=7&theme=white"/>
@@ -44,8 +46,6 @@ const emilio = {
   <img align="center" alt="-Python" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   
   <img align="center" alt="-C++" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    
-  <img align="center" alt="-C" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   
   <img align="center" alt="-MySql" height="35" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 
