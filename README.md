@@ -23,11 +23,16 @@ const emilio = {
   <a href="https://www.instagram.com/emilio_biasi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ejbiasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/emílio-biasi-9b5323209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ##
+  <hr>
 
   
 <div align="center">
-  <img align='left' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="500">
+  <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="300">
+  <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="300">
+  <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="300">
+</div>
+  <hr>
+<div align="center">
   <a href="https://github.com/emiliobiasi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emiliobiasi&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliobiasi&layout=compact&langs_count=7&theme=white"/>
@@ -56,7 +61,7 @@ const emilio = {
 
 </div>
   
-  ##
+  <hr>
   
   <div> 
 
