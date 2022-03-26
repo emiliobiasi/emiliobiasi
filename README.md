@@ -32,12 +32,14 @@ const emilio = {
   <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="250">
   <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="250">
 </div>
+  
   <hr>
+
 <div align="center">
   <a href="https://github.com/emiliobiasi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emiliobiasi&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliobiasi&layout=compact&langs_count=7&theme=white" />
-</div>
+ </div>
   
   <div style="display: inline_block" align='center'><br>
     
