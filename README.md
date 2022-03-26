@@ -37,8 +37,10 @@ const emilio = {
 
 <div align="center">
   <a href="https://github.com/emiliobiasi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emiliobiasi&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliobiasi&layout=compact&langs_count=7&theme=white" />
+  <a href="https://github.com/emiliobiasi/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emiliobiasi&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="Emilio's github stats" /></a>
+    <a href="https://github.com/emiliobiasi/github-readme-stats">
+    </a>
  </div>
   
   <div style="display: inline_block" align='center'><br>
