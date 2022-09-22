@@ -65,7 +65,7 @@ const emilio = {
     
   <img align="center" alt="-VsCode" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
 
-  <img align="center" alt="-AndroidStudio" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="-AndroidStudioo" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
  
 </div>
   
