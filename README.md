@@ -2,24 +2,9 @@
 
 <img align='right' src="https://i.pinimg.com/originals/32/3a/28/323a28121a50a9296e6775cc21918af2.gif" width="250">
 <p><em>- Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
-<p align='center'><em>"Dedication sees dreams come true" - Mamba Mentality<em></p>
+
   
-```javascript
-const emilio = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Kotlin],
-  tools: [Node, Docker],
-  archtecture: [...],
-  misc: [Firebase],
-  languageSpoken: [pt_BR, en_US],
-  databases: [Oracle, MySql],
-  universityProjects: {
-                        WEB: "SistemaDeEstacionamento",
-                        Android: "BlueZone",
-                      },
- challenge: "Switch is the goal | polyglot"
-}
-```
+
 <div align="center">
   <a href="https://www.instagram.com/emilio_biasi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ejbiasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
