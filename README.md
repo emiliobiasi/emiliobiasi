@@ -19,6 +19,7 @@
   
 
 <hr>
+  
   <div style="display: inline_block" align='center'><br>
     
   <img align="center" alt="-Oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
