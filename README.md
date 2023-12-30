@@ -1,6 +1,6 @@
 ###  Hi, I'm Emílio Biasi!
 
-<p><em>- Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
+- Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
 
   
 
