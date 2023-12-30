@@ -2,8 +2,9 @@
 
 ```
 {
+    Estudante de Engenharia de Software,
+    PUC - Campinas,
     21 anos,
-    Estudante de Engenharia de Software <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
 }
 ```
 
