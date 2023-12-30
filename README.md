@@ -14,6 +14,7 @@
   
 <div align="center">
   <img align='center' src="https://i.pinimg.com/originals/b4/5f/5e/b45f5ec39aded2b213a3a8139d0bab72.gif" width="250">
+  <img align='center' src="https://i.pinimg.com/564x/30/ca/d1/30cad1264d50f024c3095c02e65b29ad.jpg" width="250">
 </div>
   
 
