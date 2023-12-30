@@ -1,6 +1,5 @@
 ###  Hi, I'm Emílio Biasi!
 
-<img align='right' src="https://i.pinimg.com/originals/32/3a/28/323a28121a50a9296e6775cc21918af2.gif" width="250">
 <p><em>- Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
 
   
