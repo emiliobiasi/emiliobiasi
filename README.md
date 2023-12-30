@@ -1,13 +1,13 @@
 ###  Hi, I'm Emílio Biasi!
 
-<p>
-  <ul>
+<ul>
+  <li>
     - Software Enginner at <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
-  </ul>
-  <ul>
+  </li>
+  <li>
     - 21 anos
-  </ul>
-</p>
+  </li>
+</ul>
 
   
 
