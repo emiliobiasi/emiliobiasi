@@ -43,9 +43,7 @@
   <img align="center" alt="-C++" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     
   <img align="center" alt="-Kotlin" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  
-  <img align="center" alt="-Node.js" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    
+      
   <img align="center" alt="-VsCode" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
 
   <img align="center" alt="-AndroidStudioo" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
