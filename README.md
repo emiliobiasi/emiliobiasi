@@ -44,8 +44,6 @@
     
   <img align="center" alt="-Kotlin" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   
-  <img align="center" alt="-MySql" height="35" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-
   <img align="center" alt="-Node.js" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     
   <img align="center" alt="-VsCode" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
