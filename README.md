@@ -1,11 +1,12 @@
 ###  Hi, I'm Emílio Biasi!
 
-<p>
-  {
-    21 anos,<br></br>
+'''
+{
+    21 anos,
     Estudante de Engenharia de Software <a href="https://www.puc-campinas.edu.br">PUC - Campinas</a>
-  }
-</p>
+}
+'''
+  
   
 
 <div align="center">
