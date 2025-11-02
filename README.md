@@ -4,7 +4,8 @@
 {
     engenharia de software,
     puc-campinas,
-    22 anos
+    software developer at samsung,
+    23 anos
 }
 ```
 
