@@ -22,33 +22,3 @@
   <img align='center' src="https://i.pinimg.com/564x/fb/28/07/fb2807c6c3df77229519b482a9d6f558.jpg" width="150">
   <img align='center' src="https://i.pinimg.com/564x/dc/d7/1a/dcd71a26a9196461c71876374794fc39.jpg" width="150">
 </div>
-  
-<hr>
-  
-  <div style="display: inline_block" align='center'><br>
-    
-  <img align="center" alt="-Oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-    
-  <img align="center" alt="-Js" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  
-  <img align="center" alt="-HTML" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  
-  <img align="center" alt="-CSS" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  
-  <img align="center" alt="-Python" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  
-  <img align="center" alt="-C++" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    
-  <img align="center" alt="-Kotlin" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      
-  <img align="center" alt="-VsCode" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
-
-  <img align="center" alt="-AndroidStudioo" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
- 
-</div>
-  
-  
-  <div> 
-
-    
-</div>
